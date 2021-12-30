@@ -12,3 +12,4 @@ The Avatar Trading Algorithm is a ThinkorSwim Strategy strictly for the S&P Futu
 
 All of these factors contribute towards the algorithm:
 ![alt text](https://i.gyazo.com/10982146db92fbb6cbca17f15e3cf630.png)
+Developed October 2020 - January 2021
