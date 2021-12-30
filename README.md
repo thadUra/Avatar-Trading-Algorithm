@@ -1,4 +1,4 @@
-# Avatar-Trading-Algorithm
+# Avatar-Futures-Trading-Algorithm
 The Avatar Trading Algorithm is a ThinkorSwim Strategy strictly for the S&P Futures market (ES or MES) that utilizes several components:
 - Trend
   - ATR Trailing Stop
